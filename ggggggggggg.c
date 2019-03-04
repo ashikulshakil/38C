@@ -11,5 +11,7 @@ int main()
     return 0;
 	
 	metropolitan university 
+	master kam paros na
+	kam kor beta
 	
 }
