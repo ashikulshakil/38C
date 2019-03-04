@@ -9,4 +9,7 @@ int main()
         printf("%d\n",p);
     }
     return 0;
+	
+	metropolitan university 
+	
 }
